@@ -29,3 +29,6 @@ docker rmi bens-node-app
 
 # Rebuild after changes
 docker build --no-cache -t bens-node-app .
+
+# Cleanup old images
+docker image prune -f

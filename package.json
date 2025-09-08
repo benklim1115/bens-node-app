@@ -4,6 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
+    "start": "node App.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/benklim1115/bens-node-app/issues"
   },
-  "homepage": "https://github.com/benklim1115/bens-node-app#readme"
+  "homepage": "https://github.com/benklim1115/bens-node-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

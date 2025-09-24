@@ -12,8 +12,8 @@
     "url": "git+https://github.com/benklim1115/bens-node-app.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ben Klimchock",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/benklim1115/bens-node-app/issues"
   },
